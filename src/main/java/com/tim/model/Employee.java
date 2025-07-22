@@ -1,4 +1,4 @@
-package com.tim.entity;
+package com.tim.model;
 
 import jakarta.persistence.*;
 

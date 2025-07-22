@@ -1,6 +1,6 @@
-package com.tim.dao;
+package com.tim.repository;
 
-import com.tim.entity.Employee;
+import com.tim.model.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface EmployeeRepository extends JpaRepository<Employee, Integer> {

@@ -1,6 +1,6 @@
-package com.tim.rest;
+package com.tim.controller;
 
-import com.tim.entity.Employee;
+import com.tim.model.Employee;
 import com.tim.service.EmployeeService;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,8 +1,7 @@
 package com.tim.service;
 
-import com.tim.dao.EmployeeRepository;
-import com.tim.entity.Employee;
-import jakarta.transaction.Transactional;
+import com.tim.repository.EmployeeRepository;
+import com.tim.model.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

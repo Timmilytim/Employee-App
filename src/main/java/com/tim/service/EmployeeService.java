@@ -1,6 +1,6 @@
 package com.tim.service;
 
-import com.tim.entity.Employee;
+import com.tim.model.Employee;
 
 import java.util.List;
 
